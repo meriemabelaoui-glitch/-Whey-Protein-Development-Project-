@@ -35,7 +35,7 @@ Study current global market trends, consumer preferences, and competitive produc
 |------|------|------------------------|
 | **Meriem Abdellaoui** | Project Leader | Supervision, coordination, and final documentation |
 | **Salsabil Benallal** | Quality Specialist | Nutritional evaluation and product safety control |
-| **[Team Member 2]** | R&D Assistant | Data collection and laboratory testing |
+| **[Mebarki khaled]** | R&D Assistant | Data collection and laboratory testing |
 | **[Team Member 3]** | Marketing Analyst | Market research and economic analysis |
 
 ---
